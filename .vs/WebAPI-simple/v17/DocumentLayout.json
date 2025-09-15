@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250915082125_InitialDatabaseMigration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
+              "RelativeToolTip": "WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:21:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Program.cs",
+              "RelativeToolTip": "WebAPI-simple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:19:21.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI-simple\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\appsettings.json",
+              "RelativeToolTip": "WebAPI-simple\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T08:11:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPI-simple\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:08:03.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Book_Author.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Book_Author.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Book_Author.cs",
+              "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Book_Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:05:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Authors.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Authors.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Authors.cs",
+              "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Authors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:05:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Publishers.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Publishers.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Publishers.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Publishers.cs",
+              "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Publishers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:04:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Books.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Books.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Books.cs",
+              "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:02:39.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
