@@ -142,3 +142,4 @@ C:\Users\PC\Desktop\BT_LTW2\WebAPI-simple\WebAPI-simple\obj\Debug\net8.0\refint\
 C:\Users\PC\Desktop\BT_LTW2\WebAPI-simple\WebAPI-simple\obj\Debug\net8.0\WebAPI-simple.pdb
 C:\Users\PC\Desktop\BT_LTW2\WebAPI-simple\WebAPI-simple\obj\Debug\net8.0\WebAPI-simple.genruntimeconfig.cache
 C:\Users\PC\Desktop\BT_LTW2\WebAPI-simple\WebAPI-simple\obj\Debug\net8.0\ref\WebAPI-simple.dll
+C:\Users\PC\Desktop\BT_LTW2\WebAPI-simple\WebAPI-simple\obj\Debug\net8.0\WebAPI-simple.sourcelink.json
