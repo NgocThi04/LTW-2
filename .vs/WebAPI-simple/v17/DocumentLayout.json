@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|c:\\users\\pc\\desktop\\bt_ltw2\\webapi-simple\\webapi-simple\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|solutionrelative:webapi-simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9721274C-3E87-4C3B-8905-5381ADE2312F}|WebAPI-simple\\WebAPI-simple.csproj|C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\webapi-simple\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "WebAPI-simple\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:17:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Repositories\\SQLBookRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI-simple\\Repositories\\SQLBookRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Repositories\\SQLBookRepository.cs",
+              "RelativeToolTip": "WebAPI-simple\\Repositories\\SQLBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:54:31.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPI-simple\\Properties\\launchSettings.json",
@@ -102,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AddBookRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\DTO\\AddBookRequestDTO.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\DTO\\AddBookRequestDTO.cs",
@@ -115,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BookWithAuthorAndPublisherDTO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
@@ -127,20 +161,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Controllers\\BookController.cs",
               "RelativeToolTip": "WebAPI-simple\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAADsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T08:29:48.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250915082125_InitialDatabaseMigration.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Migrations\\20250915082125_InitialDatabaseMigration.cs",
@@ -152,19 +186,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Program.cs",
               "RelativeToolTip": "WebAPI-simple\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:19:21.118Z"
+              "WhenOpened": "2025-09-15T08:19:21.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI-simple\\appsettings.json",
@@ -176,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Data\\AppDbContext.cs",
@@ -188,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Book_Author.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Book_Author.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Book_Author.cs",
@@ -196,12 +231,11 @@
               "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Book_Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:05:56.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:05:56.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Authors.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Authors.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Authors.cs",
@@ -209,12 +243,11 @@
               "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Authors.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:05:10.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:05:10.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Publishers.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Publishers.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Publishers.cs",
@@ -222,12 +255,11 @@
               "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Publishers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:04:16.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:04:16.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BT_LTW2\\WebAPI-simple\\WebAPI-simple\\Models\\Domain\\Books.cs",
               "RelativeDocumentMoniker": "WebAPI-simple\\Models\\Domain\\Books.cs",
@@ -235,8 +267,7 @@
               "RelativeToolTip": "WebAPI-simple\\Models\\Domain\\Books.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:02:39.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:02:39.363Z"
             }
           ]
         },
